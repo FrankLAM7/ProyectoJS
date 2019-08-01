@@ -1,0 +1,17 @@
+body, html{
+	height: 100%;
+	background: url("../img/rojos.jpg") no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+#logo{
+	background: #CA3413;
+}
+
+#menu ul li:hover{
+	background: #CA3413;
+}
+
+.button-more{
+	background: #CA3413;
+}
